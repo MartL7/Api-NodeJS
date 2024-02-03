@@ -1,0 +1,7 @@
+CREATE TABLE content (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(150) NOT NULL,
+    type VARCHAR(100) NOT NULL,
+    genre VARCHAR(100) NOT NULL,
+    poster BLOB NOT NULL
+)

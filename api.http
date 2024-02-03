@@ -1,0 +1,11 @@
+### Show all content of DataBase
+GET http://localhost:3000/content/all
+
+### Show content by id
+GET http://localhost:3000/content/id/1
+
+### Show content by genre
+GET http://localhost:3000/content/genre/terror
+
+### Show content by type
+GET http://localhost:3000/content/type/anime
