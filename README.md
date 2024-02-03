@@ -1,4 +1,4 @@
-# muAPI
+<h1 align="center"> muAPI </h1>
 
 muAPI es una API que proporciona acceso a un catálogo de contenido con detalles sobre películas, series, animes y más.
 
